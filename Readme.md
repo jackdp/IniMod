@@ -71,8 +71,7 @@ Options and input files can be placed in any order, but `--` (double dash follow
 | `-rd`, `--recurse-depth=NUM` | Recursion depth when searching for files. NUM - a positive integer. |
 | `--silent`                   | Do not display some messages.                                       |
 | `-h`, `--help`               | Show this help.                                                     |
-| `--examples`                 | Display examples.                                                   |
-| `-V`, `--version`            | Show application version.                                           |
+| `--version`                  | Show application version.                                           |
 | `--license`                  | Display program license.                                            |
 | `--home`                     | Opens program homepage in the default browser.                      |
 | `--github`                   | Opens the GitHub page with the program's source files.              |
